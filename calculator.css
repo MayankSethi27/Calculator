@@ -1,0 +1,29 @@
+.container{
+	margin: 100px auto;
+	height: 258px;
+	width: 200px;
+	border: 1px solid black;
+	background-color: #8a420b;
+}
+.display-container{
+	position: relative;
+	border: 1px solid black;
+	height: 50px;
+	width: 100%;
+	background-color: #f5e8df;
+}
+.button{
+	width:22.83% ;
+	position: relative;
+	height: 40px;
+	border: 1px solid black;
+	display: inline-block;
+    text-align: center;
+    background-color: #e39152;
+}
+span{
+	position: relative;
+    top: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+}
